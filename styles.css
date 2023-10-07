@@ -73,11 +73,12 @@
 #grid-section1 .grid {
 	display: grid;
 	grid-template-columns: repeat(4,1fr);
-	gap:20px;
+	grid-column: 20px;
+	grid-row: 20px;
 
 }
 #grid-section1.greybox{
-	height: 200px;
+	height: 100px;
 }
 
 /* end Grid Part 1 */
