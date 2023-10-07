@@ -76,8 +76,7 @@
 	grid-gap: 20px;
 
 }
-#grid-section1.greybox{
-	display: grid;
+#grid-section1 .greybox{
 	height: 100px;
 }
 
