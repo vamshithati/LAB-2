@@ -158,7 +158,7 @@
 
 }
 #transition-section.box a:not(:hover){
-	transition:background-color 3s,color 3s;
+	transition: background-color 3s,color 3s;
 }
 
 /* end Transition Part */
